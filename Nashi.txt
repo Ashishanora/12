@@ -1,6 +1,2 @@
 fvbcvgbjwsdbefghij#1234
-<<<<<<< HEAD
-abde
-=======
-hi
->>>>>>> new
+
