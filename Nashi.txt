@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-fvbcvgbjwsdbefgh
-=======
-fvbcvgbjwsdbef
->>>>>>> new
+fvbcvgbjwsdbefghij
