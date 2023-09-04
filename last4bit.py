@@ -1,3 +1,5 @@
+abc=3
+
 if __name__ == '__main__':
     b=int(input("Enter the integer"))
     c=bin(b)
