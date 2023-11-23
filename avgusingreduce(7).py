@@ -9,3 +9,6 @@ avg=avg(list)
 
 print("The average of no's are : ",avg)
 
+cfdgearg
+jghgjg
+jbkjhl
